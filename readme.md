@@ -12,4 +12,4 @@ Reinstalção por falhas com o local e correspondência dos programas de uso.
 
 *** 
 
-### Em desenvolvimento
+### Readme em desenvolvimento
